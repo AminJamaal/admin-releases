@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Initial release with login, WhatsApp alerts, and session persistence.",
-  "pub_date": "2026-06-22T20:00:00Z",
+  "version": "1.0.1",
+  "notes": "Test update for in-app updater verification.",
+  "pub_date": "2026-06-22T21:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlVJWVJKTDlabmVGSGJjYzl4WDlWbXhrYlVONmtCZGppRTJUUzlVMHFscHJtajdPc0wwT09KclZFYlhsUFNzWnpVVUNqTWZIdUQ5VEhUb1AyY3pIdmhmeU9JWGhmU2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTUwODc4CWZpbGU6T2N0b2JlcmUgQWRtaW4gRW5naW5lXzEuMC4wX3g2NF9lbi1VUy5tc2kKaklxT3hFVGY5enNabURlQnJNTmFPN0VVbmhnMm1ndE1JVEJqQnJ6MmV2OTN0MDd2UUVPRitnWGYrcS9jbktpcVRJeDZyTFd2cFhqQ3AyL0ViZ2ppQ1E9PQo=",
-      "url": "https://github.com/AminJamaal/admin-releases/releases/download/v1.0.0/Octobere.Admin.Engine_1.0.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlVJWVJKTDlablFNdENVOHBaMUJENFJGYTlVYzJJOCt0YURGOEtaZFhMWHFJY3dPWSs4SmZwcDR5SnphZWlQajBoMXJRZTgvOWhsL1AwbFNyYkliOXQ2d1pYaSsxcUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTUyMDY3CWZpbGU6T2N0b2JlcmUgQWRtaW4gRW5naW5lXzEuMC4xX3g2NF9lbi1VUy5tc2kKVzdEbGtodDd5TUdhNjBzdkxzSVd3UStoM1ZuMU40YXR6eTh4bkMrWkk5ZURkRjduSE5tbkZNZkY3YUJlcWlpTjZJNm5oUUdmZko4Sk5HbUg5aWxZQ2c9PQo=",
+      "url": "https://github.com/AminJamaal/admin-releases/releases/download/v1.0.1/Octobere.Admin.Engine_1.0.1_x64_en-US.msi"
     }
   }
 }
