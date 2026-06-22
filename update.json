@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Test update for in-app updater verification.",
-  "pub_date": "2026-06-22T21:00:00Z",
+  "version": "1.0.2",
+  "notes": "Fix admin window not closing on session restore + rebuild to trigger in-app update notification.",
+  "pub_date": "2026-06-22T22:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlVJWVJKTDlabllsUWhHdGp5YXJacTF3WHJpbmVydVREQ1B5MU4vZDdqOFk5cis4Vmo5ZkYra3BESGY1WU5pWkNqNVRSa2hMd015NFpjNGVmdXVTMFN5c1JDZndzN2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTUyOTcyCWZpbGU6T2N0b2JlcmUgQWRtaW4gRW5naW5lXzEuMC4xX3g2NF9lbi1VUy5tc2kKeVVjTXJabElzdXhseUdCMXptNTRaMlpwZ29MMlNLQVkySjg3cGw4aXZkc0RHTGx4MnplUk9TSnRub1V5ZlpMUTl4VUVnQUhYK3drSVJXZXZvUWZZQ3c9PQo=",
-      "url": "https://github.com/AminJamaal/admin-releases/releases/download/v1.0.1/Octobere.Admin.Engine_1.0.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlVJWVJKTDlablZ0Ujk0UTdwSG4xTTR5cGc4MklOdzBYVkIxa3ZiS2p4UTZpd0VpRlpqWjMwOE1obld1d1h4K1puZXlUSWZpbkM1U09zZ05uNUYxc0I1QVM0WWVXandVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTU5NjM1CWZpbGU6T2N0b2JlcmUgQWRtaW4gRW5naW5lXzEuMC4yX3g2NF9lbi1VUy5tc2kKUFR2bkJMUmNBYnUvVW1HbnhWbjlaRFZ4ZFgyUjVXVU9acGNKYU9pZE9lejR2M2c5WkFnTURTK2hxbGhkKyt5LzVTZ3V4cG9PUFRac0J3NVBZY0ZTREE9PQo=",
+      "url": "https://octobere.com/Octobere.Admin.Engine_1.0.2_x64_en-US.msi"
     }
   }
 }
